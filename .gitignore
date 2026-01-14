@@ -1,0 +1,17 @@
+# Go
+/bin
+/tmp
+*.exe
+*.log
+
+# Env
+.env
+
+# Air
+.air.toml.tmp
+
+# OS
+.DS_Store
+
+# Docker volumes
+data/
